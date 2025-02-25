@@ -1,4 +1,4 @@
-# Модуль CDEK Delivery Shipping для OpenCart
+# CDEK Delivery Shipping module for Opencart -- Модуль CDEK Delivery Shipping для OpenCart
 
 ## Описание
 
